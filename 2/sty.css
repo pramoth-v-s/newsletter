@@ -1,0 +1,44 @@
+body{
+    border:solid black;
+    padding-bottom: 20px;
+}
+#one{
+    background-color:gainsboro;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+h2{
+    margin-left: 20px;
+}
+p{
+    margin-left: 20px;
+}
+#two{
+    background-color: white;
+    
+}
+#th input{
+    margin: 20px 20px 10px 20px;
+    padding: 10px;
+    width: 1420px;
+}
+h4{
+    margin-left:18px;
+    transform: translatey(-10px);
+}
+button{
+    border:none;
+    padding:9px;
+    width: 1420px;
+    margin-left: 20px;
+    background-color: forestgreen;
+    color:white
+}
+button:hover{
+    background-color:darkgreen;
+}
+input[type="checkbox"]{
+    accent-color: rgb(168, 24, 168);
+}
